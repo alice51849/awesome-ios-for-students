@@ -30,6 +30,7 @@ A curated list of iPhone and iPad apps that help students study, stay focused, p
 ## Exams & Career
 
 - [Anki (AnkiMobile)](https://apps.apple.com/app/id373493387) - Spaced-repetition flashcards; one-time purchase on iOS.
+- [BrioVocab](https://apps.apple.com/app/id6793255945) - French vocabulary practice with illustrated A1-B2 word sets, custom words, and adaptive spaced repetition.
 - [Aim990](https://apps.apple.com/app/id6784974530) - A 30-day TOEIC L&R study plan with a weakness engine; offline. Independent app, not affiliated with ETS; no score guaranteed. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/aim990.html)
 - [CV Desk](https://apps.apple.com/app/id6781337213) - Build an ATS-friendly resume with an on-device score and keyword matcher for graduate job applications. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/cvdesk.html)
 
