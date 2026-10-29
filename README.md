@@ -25,6 +25,7 @@ A curated list of iPhone and iPad apps that help students study, stay focused, p
 
 - [Forest](https://apps.apple.com/app/id866450515) - Focus timer that gamifies staying off your phone.
 - [LockHour Pro](https://apps.apple.com/app/id6780107485) - Hard-block distracting apps for timed study sessions via Apple Screen Time; pay-once. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/lockhour.html)
+- [Ripple](https://ripplefocus.github.io/) - Free app blocker for iPhone (iOS 16+) and Android for exam study. Blocks short-video and social apps on a schedule via Apple Screen Time, keeps itself from being deleted, ignores manual clock changes, and makes you wait 15 minutes or enter a friend's unlock code before loosening rules. On-device, no account, no ads. Distributed as a direct IPA download, not through the App Store.
 - [Mochi](https://apps.apple.com/app/id6785004775) - Cute, simple checklist for assignments and deadlines; free base, one-time unlock. · [in-depth guide](https://open.cait518.cc/ios-app-guide/hubs/mochi.html)
 
 ## Exams & Career
